@@ -1,6 +1,6 @@
 #compdef agvtool
 # ------------------------------------------------------------------------------
-# Copyright (c) 2011 Github zsh-users - http://github.com/zsh-users
+# Copyright (c) 2016 Github zsh-users - http://github.com/zsh-users
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -28,7 +28,7 @@
 # Description
 # -----------
 #
-#  Completion script for Xcode's agvtool
+#  Completion script for Apple-Generic Versioning Tool
 #
 # ------------------------------------------------------------------------------
 # Authors
@@ -58,6 +58,5 @@ _agvtool() {
 }
 
 _agvtool
-
 
 # " vim: ft=zsh sw=2 ts=2 et
